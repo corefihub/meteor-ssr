@@ -2,7 +2,7 @@ Package.describe({
   "summary": "Server Side Rendering for Meteor with Blaze",
   "version": "2.2.1",
   "git": "https://github.com/meteorhacks/meteor-ssr",
-  "name": "sebl29:meteorhacks-ssr"
+  "name": "corefihub:meteorhacks-ssr"
 });
 
 Package.onUse(function(api) {
