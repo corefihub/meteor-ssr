@@ -30,8 +30,8 @@ function configurePackage(api) {
   api.versionsFrom('1.11.1');
   api.use('mquandalle:jade-compiler@0.4.4', { weak: true });
   api.use([
-    'blaze-html-templates',
-    'spacebars-compiler',
+    'blaze-html-templates@1.1.2',
+    'spacebars-compiler@1.1.3',
     'mongo',
     'random'
   ],
